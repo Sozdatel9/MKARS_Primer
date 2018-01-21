@@ -1,0 +1,49 @@
+# ----------------------------HKEY_LOCAL_MACHINE----------------------------#
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Office\8.0\Excel\InstallRoot]
+@=""
+"Path"="<product path>"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Office\8.0\Excel]
+@=""
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Office\8.0\New User Settings\Excel\Line Print]
+@=""
+"BotMarg"="REG_DWORD:0x2"
+"LeftMarg"="REG_DWORD:0x4"
+"Options"="REG_DWORD:0x2"
+"PgLen"="REG_DWORD:0x42"
+"Setup"=""
+"TopMarg"="REG_DWORD:2"
+"Rightmarg"="REG_DWORD:0x4C"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Office\8.0\New User Settings\Excel]
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Office\8.0\New User Settings\Excel\Microsoft Excel]
+"AutoFormat"="REG_DWORD:1"
+"AutoFormat Options"="REG_DWORD:0x3F"
+"Maximized"="REG_DWORD:3"
+"Options5"="REG_DWORD:0x81"
+
+
+# ----------------------------HKEY_CURRENT_USER----------------------------#
+[HKEY_CURRENT_USER\Software\Microsoft\Office\8.0\Excel]
+@=""
+
+[HKEY_CURRENT_USER\Software\Microsoft\Office\8.0\Excel\Line Print]
+@=""
+"BotMarg"="REG_DWORD:0x2"
+"LeftMarg"="REG_DWORD:0x4"
+"Options"="REG_DWORD:0x2"
+"PgLen"="REG_DWORD:0x42"
+"Setup"=""
+"TopMarg"="REG_DWORD:0x2"
+"Rightmarg"="REG_DWORD:0x4C"
+
+[HKEY_CURRENT_USER\Software\Microsoft\Office\8.0\Excel\Microsoft Excel]
+"AutoFormat"="REG_DWORD:1"
+"AutoFormat Options"="REG_DWORD:0x3F"
+"Maximized"="REG_DWORD:0x3"
+"Options5"="REG_DWORD:0x81"
+
+
+

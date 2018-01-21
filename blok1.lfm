@@ -1,0 +1,488 @@
+object Blok1_Form: TBlok1_Form
+  Left = 1
+  Height = 537
+  Top = 1
+  Width = 789
+  Caption = 'МкАРС 1.5 ::'
+  ClientHeight = 537
+  ClientWidth = 789
+  KeyPreview = True
+  OnClose = FormClose
+  OnCreate = FormCreate
+  OnKeyDown = FormKeyDown
+  OnResize = FormResize
+  ShowInTaskBar = stAlways
+  LCLVersion = '1.2.2.0'
+  object PageControl1: TPageControl
+    Left = 8
+    Height = 580
+    Top = 0
+    Width = 795
+    ActivePage = TabSheet1
+    ParentShowHint = False
+    ShowHint = True
+    TabIndex = 0
+    TabOrder = 0
+    OnChange = PageControl1Change
+    object TabSheet1: TTabSheet
+      Caption = 'TabSheet1'
+      ClientHeight = 552
+      ClientWidth = 787
+      object CalculateBtn1: TButton
+        Left = 8
+        Height = 26
+        Top = 46
+        Width = 97
+        Caption = 'Рассчитать'
+        Font.CharSet = RUSSIAN_CHARSET
+        Font.Color = clWindowText
+        Font.Height = -16
+        Font.Name = 'Tahoma'
+        Font.Pitch = fpVariable
+        OnClick = CalculateBtn1Click
+        ParentFont = False
+        TabOrder = 0
+      end
+      object BackBtn1: TButton
+        Left = 496
+        Height = 26
+        Top = 46
+        Width = 65
+        Caption = 'Назад'
+        Font.CharSet = RUSSIAN_CHARSET
+        Font.Color = clWindowText
+        Font.Height = -16
+        Font.Name = 'Tahoma'
+        Font.Pitch = fpVariable
+        OnClick = BackBtn1Click
+        ParentFont = False
+        TabOrder = 4
+      end
+      object ExportToExcelBtn1: TButton
+        Left = 112
+        Height = 26
+        Top = 46
+        Width = 120
+        Caption = 'Экспорт в Excel'
+        Enabled = False
+        Font.CharSet = RUSSIAN_CHARSET
+        Font.Color = clWindowText
+        Font.Height = -16
+        Font.Name = 'Tahoma'
+        Font.Pitch = fpVariable
+        OnClick = ExportToExcelBtn1Click
+        ParentFont = False
+        ParentShowHint = False
+        ShowHint = True
+        TabOrder = 1
+      end
+      object sGrid1: TStringGrid
+        Left = 0
+        Height = 500
+        Top = 80
+        Width = 790
+        ColCount = 18
+        DefaultColWidth = 85
+        DefaultRowHeight = 24
+        FixedCols = 0
+        FixedRows = 11
+        Options = [goVertLine, goHorzLine, goRangeSelect, goColSizing, goEditing, goTabs, goSmoothScroll, goFixedColSizing]
+        ParentBiDiMode = False
+        RowCount = 72
+        ScrollBars = ssBoth
+        TabOrder = 5
+        OnDrawCell = sGrid1DrawCell
+        OnKeyDown = sGrid1KeyDown
+        OnKeyPress = sGrid1KeyPress
+      end
+      object Label1: TLabel
+        Left = 8
+        Height = 43
+        Top = 5
+        Width = 751
+        AutoSize = False
+        Caption = 'Исходная информация'
+        Font.CharSet = RUSSIAN_CHARSET
+        Font.Height = -19
+        Font.Name = 'Times New Roman'
+        Font.Pitch = fpVariable
+        ParentColor = False
+        ParentFont = False
+        WordWrap = True
+      end
+      object ExportToXLSBtn1: TButton
+        Left = 390
+        Height = 26
+        Top = 46
+        Width = 100
+        Caption = 'Эксп. в файл'
+        Font.CharSet = RUSSIAN_CHARSET
+        Font.Color = clWindowText
+        Font.Height = -16
+        Font.Name = 'Tahoma'
+        Font.Pitch = fpVariable
+        OnClick = ExportToXLSBtn1Click
+        ParentFont = False
+        TabOrder = 3
+      end
+      object ExportToOOCalcBtn1: TButton
+        Left = 240
+        Height = 26
+        Top = 46
+        Width = 140
+        Caption = 'Эксп. в OpenOffice'
+        Enabled = False
+        Font.CharSet = RUSSIAN_CHARSET
+        Font.Color = clWindowText
+        Font.Height = -16
+        Font.Name = 'Tahoma'
+        Font.Pitch = fpVariable
+        OnClick = ExportToOOCalcBtn1Click
+        ParentFont = False
+        ParentShowHint = False
+        ShowHint = True
+        TabOrder = 2
+      end
+      object CancelBtn1: TButton
+        Left = 716
+        Height = 26
+        Top = 46
+        Width = 65
+        Caption = 'Отмена'
+        Enabled = False
+        Font.CharSet = RUSSIAN_CHARSET
+        Font.Color = clWindowText
+        Font.Height = -16
+        Font.Name = 'Tahoma'
+        Font.Pitch = fpVariable
+        OnClick = CancelBtn1Click
+        ParentFont = False
+        TabOrder = 6
+        Visible = False
+      end
+      object SaveChangesBtn1: TButton
+        Left = 568
+        Height = 26
+        Top = 46
+        Width = 140
+        Caption = 'Сохр. изменения'
+        Font.CharSet = RUSSIAN_CHARSET
+        Font.Color = clWindowText
+        Font.Height = -16
+        Font.Name = 'Tahoma'
+        Font.Pitch = fpVariable
+        OnClick = SaveChangesBtn1Click
+        ParentFont = False
+        TabOrder = 7
+      end
+    end
+    object TabSheet2: TTabSheet
+      Caption = 'TabSheet2'
+      ClientHeight = 552
+      ClientWidth = 787
+      ParentShowHint = False
+      ShowHint = True
+      object ExportToOOCalcBtn2: TButton
+        Left = 240
+        Height = 26
+        Top = 46
+        Width = 140
+        Caption = 'Эксп. в OpenOffice'
+        Enabled = False
+        Font.CharSet = RUSSIAN_CHARSET
+        Font.Color = clWindowText
+        Font.Height = -16
+        Font.Name = 'Tahoma'
+        Font.Pitch = fpVariable
+        OnClick = ExportToOOCalcBtn1Click
+        ParentFont = False
+        ParentShowHint = False
+        ShowHint = True
+        TabOrder = 2
+      end
+      object CalculateBtn2: TButton
+        Left = 8
+        Height = 26
+        Top = 46
+        Width = 97
+        Caption = 'Рассчитать'
+        Font.CharSet = RUSSIAN_CHARSET
+        Font.Color = clWindowText
+        Font.Height = -16
+        Font.Name = 'Tahoma'
+        Font.Pitch = fpVariable
+        OnClick = CalculateBtn2Click
+        ParentFont = False
+        TabOrder = 0
+      end
+      object BackBtn2: TButton
+        Left = 496
+        Height = 26
+        Top = 46
+        Width = 65
+        Caption = 'Назад'
+        Font.CharSet = RUSSIAN_CHARSET
+        Font.Color = clWindowText
+        Font.Height = -16
+        Font.Name = 'Tahoma'
+        Font.Pitch = fpVariable
+        OnClick = BackBtn1Click
+        ParentFont = False
+        TabOrder = 4
+      end
+      object ExportToExcelBtn2: TButton
+        Left = 112
+        Height = 26
+        Top = 46
+        Width = 120
+        Caption = 'Экспорт в Excel'
+        Enabled = False
+        Font.CharSet = RUSSIAN_CHARSET
+        Font.Color = clWindowText
+        Font.Height = -16
+        Font.Name = 'Tahoma'
+        Font.Pitch = fpVariable
+        OnClick = ExportToExcelBtn1Click
+        ParentFont = False
+        ParentShowHint = False
+        ShowHint = True
+        TabOrder = 1
+      end
+      object CancelBtn2: TButton
+        Left = 568
+        Height = 26
+        Top = 46
+        Width = 65
+        Caption = 'Отмена'
+        Enabled = False
+        Font.CharSet = RUSSIAN_CHARSET
+        Font.Color = clWindowText
+        Font.Height = -16
+        Font.Name = 'Tahoma'
+        Font.Pitch = fpVariable
+        OnClick = CancelBtn1Click
+        ParentFont = False
+        TabOrder = 5
+      end
+      object sGrid2: TStringGrid
+        Left = 0
+        Height = 500
+        Top = 80
+        Width = 790
+        ColCount = 11
+        DefaultColWidth = 85
+        DefaultRowHeight = 24
+        FixedCols = 0
+        FixedRows = 11
+        Options = [goVertLine, goHorzLine, goRangeSelect, goColSizing, goTabs, goSmoothScroll, goFixedColSizing]
+        ParentBiDiMode = False
+        RowCount = 72
+        ScrollBars = ssBoth
+        TabOrder = 6
+        OnDrawCell = sGrid1DrawCell
+        OnKeyDown = sGrid1KeyDown
+        OnKeyPress = sGrid1KeyPress
+        ColWidths = (
+          37
+          43
+          287
+          65
+          78
+          120
+          138
+          83
+          83
+          127
+          69
+        )
+      end
+      object Label2: TLabel
+        Left = 8
+        Height = 43
+        Top = 5
+        Width = 751
+        AutoSize = False
+        Caption = 'Исходная информация'
+        Font.CharSet = RUSSIAN_CHARSET
+        Font.Height = -19
+        Font.Name = 'Times New Roman'
+        Font.Pitch = fpVariable
+        ParentColor = False
+        ParentFont = False
+        WordWrap = True
+      end
+      object ExportToXLSBtn2: TButton
+        Left = 390
+        Height = 26
+        Top = 46
+        Width = 100
+        Caption = 'Эксп. в файл'
+        Font.CharSet = RUSSIAN_CHARSET
+        Font.Color = clWindowText
+        Font.Height = -16
+        Font.Name = 'Tahoma'
+        Font.Pitch = fpVariable
+        OnClick = ExportToXLSBtn1Click
+        ParentFont = False
+        TabOrder = 3
+      end
+    end
+    object TabSheet3: TTabSheet
+      Caption = 'TabSheet3'
+      ClientHeight = 552
+      ClientWidth = 787
+      object ExportToOOCalcBtn3: TButton
+        Left = 240
+        Height = 26
+        Top = 46
+        Width = 140
+        Caption = 'Эксп. в OpenOffice'
+        Enabled = False
+        Font.CharSet = RUSSIAN_CHARSET
+        Font.Color = clWindowText
+        Font.Height = -16
+        Font.Name = 'Tahoma'
+        Font.Pitch = fpVariable
+        OnClick = ExportToOOCalcBtn1Click
+        ParentFont = False
+        ParentShowHint = False
+        ShowHint = True
+        TabOrder = 2
+      end
+      object CalculateBtn3: TButton
+        Left = 8
+        Height = 26
+        Top = 46
+        Width = 97
+        Caption = 'Рассчитать'
+        Font.CharSet = RUSSIAN_CHARSET
+        Font.Color = clWindowText
+        Font.Height = -16
+        Font.Name = 'Tahoma'
+        Font.Pitch = fpVariable
+        OnClick = CalculateBtn3Click
+        ParentFont = False
+        TabOrder = 0
+      end
+      object BackBtn3: TButton
+        Left = 496
+        Height = 26
+        Top = 46
+        Width = 65
+        Caption = 'Назад'
+        Font.CharSet = RUSSIAN_CHARSET
+        Font.Color = clWindowText
+        Font.Height = -16
+        Font.Name = 'Tahoma'
+        Font.Pitch = fpVariable
+        OnClick = BackBtn1Click
+        ParentFont = False
+        TabOrder = 4
+      end
+      object ExportToExcelBtn3: TButton
+        Left = 112
+        Height = 26
+        Top = 46
+        Width = 120
+        Caption = 'Экспорт в Excel'
+        Enabled = False
+        Font.CharSet = RUSSIAN_CHARSET
+        Font.Color = clWindowText
+        Font.Height = -16
+        Font.Name = 'Tahoma'
+        Font.Pitch = fpVariable
+        OnClick = ExportToExcelBtn1Click
+        ParentFont = False
+        ParentShowHint = False
+        ShowHint = True
+        TabOrder = 1
+      end
+      object sGrid3: TStringGrid
+        Left = 0
+        Height = 500
+        Top = 80
+        Width = 790
+        ColCount = 11
+        DefaultColWidth = 85
+        DefaultRowHeight = 24
+        FixedCols = 0
+        FixedRows = 11
+        Options = [goVertLine, goHorzLine, goRangeSelect, goColSizing, goTabs, goSmoothScroll, goFixedColSizing]
+        ParentBiDiMode = False
+        RowCount = 72
+        ScrollBars = ssBoth
+        TabOrder = 5
+        OnDrawCell = sGrid1DrawCell
+        OnKeyDown = sGrid1KeyDown
+        OnKeyPress = sGrid1KeyPress
+        ColWidths = (
+          35
+          35
+          222
+          222
+          222
+          222
+          222
+          222
+          222
+          222
+          222
+        )
+      end
+      object Label3: TLabel
+        Left = 8
+        Height = 43
+        Top = 5
+        Width = 751
+        AutoSize = False
+        Caption = 'Исходная информация'
+        Font.CharSet = RUSSIAN_CHARSET
+        Font.Height = -19
+        Font.Name = 'Times New Roman'
+        Font.Pitch = fpVariable
+        ParentColor = False
+        ParentFont = False
+        WordWrap = True
+      end
+      object ExportToXLSBtn3: TButton
+        Left = 390
+        Height = 26
+        Top = 46
+        Width = 100
+        Caption = 'Эксп. в файл'
+        Font.CharSet = RUSSIAN_CHARSET
+        Font.Color = clWindowText
+        Font.Height = -16
+        Font.Name = 'Tahoma'
+        Font.Pitch = fpVariable
+        OnClick = ExportToXLSBtn1Click
+        ParentFont = False
+        TabOrder = 3
+      end
+      object CancelBtn3: TButton
+        Left = 568
+        Height = 26
+        Top = 46
+        Width = 65
+        Caption = 'Отмена'
+        Enabled = False
+        Font.CharSet = RUSSIAN_CHARSET
+        Font.Color = clWindowText
+        Font.Height = -16
+        Font.Name = 'Tahoma'
+        Font.Pitch = fpVariable
+        OnClick = CancelBtn1Click
+        ParentFont = False
+        TabOrder = 6
+      end
+    end
+  end
+  object SaveDialog1: TSaveDialog
+    Title = 'Сохранить таблицу как ...'
+    DefaultExt = '.*.xls'
+    Filter = 'Таблицы EXCEL|*.xls|Все файлы|*.*'
+    Options = [ofOverwritePrompt, ofEnableSizing, ofViewDetail]
+    left = 632
+    top = 128
+  end
+end

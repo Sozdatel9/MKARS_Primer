@@ -1,0 +1,40 @@
+:Base XLVIEW.HLP
+:Title Microsoft Excel Viewer 97
+1 What is Microsoft Excel Viewer 97?
+2 About Microsoft Excel Viewer 97=xlconwhatismicrosoftexcelviewer97>ref
+1 Distribution of Microsoft Excel Viewer 97
+2 Obtaining Microsoft Excel Viewer 97=xlcondistributionofmicrosoftexcelviewer@xlview.hlp>ref
+2 Distributing Microsoft Excel Viewer 97 with your workbooks=xlrefdistributingmicrosoftexcelviewer97withyourworkbooks@xlview.hlp>ref
+2 Ordering Microsoft Excel=xlhowtoorderingmicrosoftexcel>ref
+1 Installing, Reinstalling, or Removing Microsoft Excel Viewer
+2 Installing Microsoft Excel Viewer=xlhowtoinstallingreinstallingorremovingmicrosoftexcelviewer@xlview.hlp>howto
+2 Reinstalling Microsoft Excel Viewer=xlhowtoreinstallingmicrosoftexcelviewer@xlview.hlp>howto
+2 Removing Microsoft Excel Viewer=xlhowtoremovingmicrosoftexcelviewer@xlview.hlp>howto
+2 Microsoft Excel Viewer installed file names and locations=xlhowmicrosoftexcelviewerinstalledfilenamesandlocations@xlview.hlp>ref
+1 Opening and Viewing Workbooks
+2 Open a workbook=cohowOpenADocument@xlview.hlp>howto
+2 Open a workbook for editing=xlrefopenaworkbookforediting>howto
+2 Magnify or reduce the display=xlhowMagnifyOrReduceDisplay@xlview.hlp>howto
+2 View different parts of a worksheet at the same time=xlconSplittingWorksheetsAndFreezingPanes@xlview.hlp>ref
+1 Moving Around in a Workbook and Finding Data
+2 Move and scroll through a worksheet=xlhowMoveAndScrollWithinAWorksheet@xlview.hlp>ref
+2 Select cells, ranges, rows, and columns=xlhowSelectCellsRowsAndColumns@xlview.hlp>ref
+2 Cancel a selection of cells=xlhowCancelASelection>howto
+2 Select sheets in a workbook=xlhowSelectSheetsInAWorkbook>ref
+2 Switch to another sheet in a workbook=xlhowSwitchToAnotherSheetInAWorkbook>howto
+2 Copy cell data=xlhowcopycelldata>ref
+2 Find text or numbers=xlhowFindTextOrNumbers>howto
+2 Change column width=xlhowAdjustcolumnwidth>howto
+2 Change row height=xlhowAdjustrowheight>howto
+2 Display a subset of rows in a list by using AutoFilter=xlhowFilteringAList>howto
+1 Printing
+2 Change the worksheet area that appears on a printed page=xldecPrintWorksheetOnSpecificNumberOfPages>ref
+2 Change the layout of the printed worksheet=xldecChangeLayoutOfPrintedWorksheet>ref
+2 Remove a print area=xldccRemovePrintArea>howto
+2 Set page margins=xlhowSetPageMargins>howto
+2 Print row and column headings on every page=xldccPrintRowColumnHeadingsOnEveryPage>howto
+2 Print the active sheets, a selected range, or an entire workbook=xldccPrintSheetSelectedRangeOrEntireWorkbook>howto
+2 About the Print Preview window=xlcmdAboutPrintPreviewWindow>ref
+1 Getting Technical Support
+2 Connect to Microsoft Technical Resources=ofdecConnectToMicrosoft>ref
+2 Ordering Microsoft Excel=xlhowtoorderingmicrosoftexcel>ref

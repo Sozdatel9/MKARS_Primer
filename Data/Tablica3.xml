@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <grid version="3">
+    <saveoptions create="False" position="False" content="True"/>
+    <content>
+      <cells cellcount="277">
+        <cell1 column="0" row="0" text="ОТЧЕТ О ДВИЖЕНИИ ДЕНЕЖНЫХ СРЕДСТВ"/>
+        <cell2 column="0" row="1" text="за 12 месяцев 2014 г."/>
+        <cell3 column="0" row="5" text="Организация (орган исполнительной власти)"/>
+        <cell4 column="0" row="6" text="Идентификационный номер налогоплательщика"/>
+        <cell5 column="0" row="7" text="*Вид экономической деятельности"/>
+        <cell6 column="0" row="8" text="**Организационно-правовая форма/форма собственности"/>
+        <cell7 column="0" row="10" text="Единица измерения: "/>
+        <cell8 column="0" row="12" text="Наименование показателя"/>
+        <cell9 column="0" row="13" text="1"/>
+        <cell10 column="0" row="14" text="Денежные потоки от текущих операций"/>
+        <cell11 column="0" row="15" text="Поступило денежных средств - всего:"/>
+        <cell12 column="0" row="16" text="в том числе: от продажи продукции, товаров, работ и услуг"/>
+        <cell13 column="0" row="17" text="арендные платежи, лицензионные платежи, "/>
+        <cell14 column="0" row="18" text="от перепродажи финансовых вложений"/>
+        <cell15 column="0" row="19" text="прочие поступления"/>
+        <cell16 column="0" row="20" text="из них: бюджетные субсидии"/>
+        <cell17 column="0" row="21" text="полученное страховое возмещение"/>
+        <cell18 column="0" row="22" text="Платежи - всего"/>
+        <cell19 column="0" row="23" text="в том числе: поставщикам (подрядчикам) за сырье, материалы,"/>
+        <cell20 column="0" row="24" text="в связи с оплатой труда работников"/>
+        <cell21 column="0" row="25" text="процентов по обязательствам"/>
+        <cell22 column="0" row="26" text="налог на прибыль организаций"/>
+        <cell23 column="0" row="27" text="прочие платежи"/>
+        <cell24 column="0" row="28" text="Сальдо денежных потоков от текущих операций  "/>
+        <cell25 column="0" row="29" text="* Орган исполнительной  власти заполняет "/>
+        <cell26 column="0" row="30" text="** Орган исполнительной  власти строку не заполняет"/>
+        <cell27 column="0" row="32" text="Наименование показателя"/>
+        <cell28 column="0" row="33" text="1"/>
+        <cell29 column="0" row="34" text="Денежные потоки от инвестиционных операций"/>
+        <cell30 column="0" row="35" text="Поступления - всего"/>
+        <cell31 column="0" row="36" text="в том числе: от продажи внеоборотных активов"/>
+        <cell32 column="0" row="37" text="от продажи акций других организаций (долей участия)"/>
+        <cell33 column="0" row="38" text="от возврата предоставленных займов, от продажи долговых"/>
+        <cell34 column="0" row="39" text="дивидендов, процентов по долговым финансовым  вложениям "/>
+        <cell35 column="0" row="40" text="прочие поступления"/>
+        <cell36 column="0" row="41" text="Платежи - всего"/>
+        <cell37 column="0" row="42" text="в том числе: в связи с приобретением, созданием"/>
+        <cell38 column="0" row="43" text="в связи с приобретением акций других организаций"/>
+        <cell39 column="0" row="44" text="в связи с приобретением долговых бумаг (прав требования"/>
+        <cell40 column="0" row="45" text="процентов по долговым обязательствам, включаемым"/>
+        <cell41 column="0" row="46" text="прочие платежи"/>
+        <cell42 column="0" row="47" text="Сальдо денежных потоков от инвестиционных операций"/>
+        <cell43 column="0" row="48" text="Денежные потоки от финансовых операций"/>
+        <cell44 column="0" row="49" text="Поступления - всего"/>
+        <cell45 column="0" row="50" text="в том числе: получение кредитов и займов"/>
+        <cell46 column="0" row="51" text="денежных вкладов собственников (участников)"/>
+        <cell47 column="0" row="52" text="от выпуска акций, увеличения долей участия"/>
+        <cell48 column="0" row="53" text="от выпуска облигаций, векселей, и других долговых"/>
+        <cell49 column="0" row="54" text="прочие поступления"/>
+        <cell50 column="0" row="57" text="Наименование показателя"/>
+        <cell51 column="0" row="58" text="1"/>
+        <cell52 column="0" row="59" text="Платежи - всего"/>
+        <cell53 column="0" row="60" text="в том числе: собственникам (участникам) в связи с выкупом "/>
+        <cell54 column="0" row="61" text="на уплату дивидендов и иных платежей"/>
+        <cell55 column="0" row="62" text="в связи с погашением (выкупом) векселей"/>
+        <cell56 column="0" row="63" text="прочие платежи"/>
+        <cell57 column="0" row="64" text="Сальдо денежных потоков от финансовых операций"/>
+        <cell58 column="0" row="65" text="Сальдо денежных потоков за отчетный период"/>
+        <cell59 column="0" row="66" text="Остаток денежных средств "/>
+        <cell60 column="0" row="67" text="Остаток денежных средств "/>
+        <cell61 column="0" row="68" text="Величина влияния изменений курса иностранной валюты"/>
+        <cell62 column="0" row="70" text="Руководитель"/>
+        <cell63 column="1" row="10" text="тыс. руб."/>
+        <cell64 column="1" row="17" text="гонорары, комиссионные платежи"/>
+        <cell65 column="1" row="23" text="работы, услуги"/>
+        <cell66 column="1" row="29" text="строку в соответствии со"/>
+        <cell67 column="1" row="36" text="(кроме финансовых вложений)"/>
+        <cell68 column="1" row="38" text="ценных бумаг (прав требования денежных"/>
+        <cell69 column="1" row="39" text="и аналогичных поступлений от долевого участия"/>
+        <cell70 column="1" row="42" text="модернизацией, реконструкцией и подготовкой "/>
+        <cell71 column="1" row="43" text="(долей участия)"/>
+        <cell72 column="1" row="44" text="денежных средств к другим лицам),"/>
+        <cell73 column="1" row="45" text="в стоимость инвестиционного актива"/>
+        <cell74 column="1" row="53" text="ценных бумаг и др."/>
+        <cell75 column="1" row="60" text="у них акций (долей участия) организации"/>
+        <cell76 column="1" row="61" text="по распределению прибыли"/>
+        <cell77 column="1" row="62" text="и других долговых ценных бумаг, возврат "/>
+        <cell78 column="1" row="66" text="и денежных эквивалентов"/>
+        <cell79 column="1" row="67" text="и денежных эквивалентов"/>
+        <cell80 column="1" row="68" text=" по отношению к рублю"/>
+        <cell81 column="1" row="70" text="_______________"/>
+        <cell82 column="1" row="71" text="(подпись)"/>
+        <cell83 column="2" row="5" text="Саратовская обл (СХ)"/>
+        <cell84 column="2" row="7" text="Сельское хозяйство"/>
+        <cell85 column="2" row="29" text="следующими видами деятельности:"/>
+        <cell86 column="2" row="38" text="средств к другим лицам)"/>
+        <cell87 column="2" row="39" text="в других организациях"/>
+        <cell88 column="2" row="42" text="к использованию внеоборотных активов"/>
+        <cell89 column="2" row="44" text="предоставление займов другим лицам"/>
+        <cell90 column="2" row="60" text="или их выходом из состава участников"/>
+        <cell91 column="2" row="61" text="в пользу собственников (участников)"/>
+        <cell92 column="2" row="62" text="кредитов и займов"/>
+        <cell93 column="2" row="66" text="на начало отчетного периода"/>
+        <cell94 column="2" row="67" text="на конец отчетного периода"/>
+        <cell95 column="2" row="70" text="А.А. Соловьев"/>
+        <cell96 column="2" row="71" text="(расшифровка подписи)"/>
+        <cell97 column="3" row="5" text=" "/>
+        <cell98 column="3" row="29" text="сельское хозяйство, "/>
+        <cell99 column="4" row="29" text="организации, обслуживающие сельское"/>
+        <cell100 column="5" row="3" text="Форма № 4 "/>
+        <cell101 column="5" row="12" text="Код"/>
+        <cell102 column="5" row="13" text="2"/>
+        <cell103 column="5" row="15" text="4110"/>
+        <cell104 column="5" row="16" text="4111"/>
+        <cell105 column="5" row="17" text="4112"/>
+        <cell106 column="5" row="18" text="4113"/>
+        <cell107 column="5" row="19" text="4119"/>
+        <cell108 column="5" row="20" text="4119.1"/>
+        <cell109 column="5" row="21" text="4119.2"/>
+        <cell110 column="5" row="22" text="4120"/>
+        <cell111 column="5" row="23" text="4121"/>
+        <cell112 column="5" row="24" text="4122"/>
+        <cell113 column="5" row="25" text="4123"/>
+        <cell114 column="5" row="26" text="4124"/>
+        <cell115 column="5" row="27" text="4129"/>
+        <cell116 column="5" row="28" text="4100"/>
+        <cell117 column="5" row="29" text=" хозяйство, пищевая и"/>
+        <cell118 column="5" row="32" text="Код"/>
+        <cell119 column="5" row="33" text="2"/>
+        <cell120 column="5" row="35" text="4210"/>
+        <cell121 column="5" row="36" text="4211"/>
+        <cell122 column="5" row="37" text="4212"/>
+        <cell123 column="5" row="38" text="4213"/>
+        <cell124 column="5" row="39" text="4214"/>
+        <cell125 column="5" row="40" text="4219"/>
+        <cell126 column="5" row="41" text="4220"/>
+        <cell127 column="5" row="42" text="4221"/>
+        <cell128 column="5" row="43" text="4222"/>
+        <cell129 column="5" row="44" text="4223"/>
+        <cell130 column="5" row="45" text="4224"/>
+        <cell131 column="5" row="46" text="4229"/>
+        <cell132 column="5" row="47" text="4200"/>
+        <cell133 column="5" row="49" text="4310"/>
+        <cell134 column="5" row="50" text="4311"/>
+        <cell135 column="5" row="51" text="4312"/>
+        <cell136 column="5" row="52" text="4313"/>
+        <cell137 column="5" row="53" text="4314"/>
+        <cell138 column="5" row="54" text="4319"/>
+        <cell139 column="5" row="57" text="Код"/>
+        <cell140 column="5" row="58" text="2"/>
+        <cell141 column="5" row="59" text="4320"/>
+        <cell142 column="5" row="60" text="4321"/>
+        <cell143 column="5" row="61" text="4322"/>
+        <cell144 column="5" row="62" text="4323"/>
+        <cell145 column="5" row="63" text="4329"/>
+        <cell146 column="5" row="64" text="4300"/>
+        <cell147 column="5" row="65" text="4400"/>
+        <cell148 column="5" row="66" text="4450"/>
+        <cell149 column="5" row="67" text="4500"/>
+        <cell150 column="5" row="68" text="4490"/>
+        <cell151 column="5" row="70" text="Главный бухгалтер"/>
+        <cell152 column="6" row="3" text="по ОКУД"/>
+        <cell153 column="6" row="4" text="Дата "/>
+        <cell154 column="6" row="5" text="по ОКПО"/>
+        <cell155 column="6" row="6" text="ИНН"/>
+        <cell156 column="6" row="7" text="по ОКВЭД"/>
+        <cell157 column="6" row="9" text="по ОКОПФ/ОКФС"/>
+        <cell158 column="6" row="10" text="по ОКЕИ"/>
+        <cell159 column="6" row="12" text="За 12 месяцев 2014 г."/>
+        <cell160 column="6" row="13" text="3"/>
+        <cell161 column="6" row="15" text="31739383"/>
+        <cell162 column="6" row="16" text="28156976"/>
+        <cell163 column="6" row="17" text="39822"/>
+        <cell164 column="6" row="18" text="8530"/>
+        <cell165 column="6" row="19" text="3534055"/>
+        <cell166 column="6" row="20" text="1629268"/>
+        <cell167 column="6" row="21" text="51633"/>
+        <cell168 column="6" row="22" text="-29262392"/>
+        <cell169 column="6" row="23" text="-20579673"/>
+        <cell170 column="6" row="24" text="-3590773"/>
+        <cell171 column="6" row="25" text="-1628909"/>
+        <cell172 column="6" row="26" text="-15593"/>
+        <cell173 column="6" row="27" text="-3447444"/>
+        <cell174 column="6" row="28" text="2476991"/>
+        <cell175 column="6" row="29" text="перерабатывающая"/>
+        <cell176 column="6" row="31" text="Форма"/>
+        <cell177 column="6" row="32" text="За 12 месяцев 2014 г."/>
+        <cell178 column="6" row="33" text="3"/>
+        <cell179 column="6" row="35" text="865648"/>
+        <cell180 column="6" row="36" text="64203"/>
+        <cell181 column="6" row="37" text="31366"/>
+        <cell182 column="6" row="38" text="392500"/>
+        <cell183 column="6" row="39" text="31090"/>
+        <cell184 column="6" row="40" text="346489"/>
+        <cell185 column="6" row="41" text="-4432273"/>
+        <cell186 column="6" row="42" text="-2632569"/>
+        <cell187 column="6" row="43" text="-2600"/>
+        <cell188 column="6" row="44" text="-1400885"/>
+        <cell189 column="6" row="45" text="-12501"/>
+        <cell190 column="6" row="46" text="-383718"/>
+        <cell191 column="6" row="47" text="-3566625"/>
+        <cell192 column="6" row="49" text="13324507"/>
+        <cell193 column="6" row="50" text="11403093"/>
+        <cell194 column="6" row="51" text="7510"/>
+        <cell195 column="6" row="52" text="20"/>
+        <cell196 column="6" row="53" text="60100"/>
+        <cell197 column="6" row="54" text="1853784"/>
+        <cell198 column="6" row="56" text="Форма"/>
+        <cell199 column="6" row="57" text="За 12 месяцев 2014 г."/>
+        <cell200 column="6" row="58" text="3"/>
+        <cell201 column="6" row="59" text="-12145909"/>
+        <cell202 column="6" row="60" text="-35101"/>
+        <cell203 column="6" row="61" text="-147892"/>
+        <cell204 column="6" row="62" text="-10558581"/>
+        <cell205 column="6" row="63" text="-1404335"/>
+        <cell206 column="6" row="64" text="1178598"/>
+        <cell207 column="6" row="65" text="88964"/>
+        <cell208 column="6" row="66" text="816888"/>
+        <cell209 column="6" row="67" text="905858"/>
+        <cell210 column="6" row="68" text="6"/>
+        <cell211 column="6" row="70" text="_______________"/>
+        <cell212 column="6" row="71" text="(подпись)"/>
+        <cell213 column="7" row="2" text="КОДЫ"/>
+        <cell214 column="7" row="3" text="0710004"/>
+        <cell215 column="7" row="4" text="31"/>
+        <cell216 column="7" row="5" text="00080654"/>
+        <cell217 column="7" row="6" text="6455020996"/>
+        <cell218 column="7" row="10" text="384"/>
+        <cell219 column="7" row="12" text="За 12 месяцев 2013 г."/>
+        <cell220 column="7" row="13" text="4"/>
+        <cell221 column="7" row="15" text="25896356"/>
+        <cell222 column="7" row="16" text="22126933"/>
+        <cell223 column="7" row="17" text="34927"/>
+        <cell224 column="7" row="18" text="1676"/>
+        <cell225 column="7" row="19" text="3732820"/>
+        <cell226 column="7" row="20" text="1765669"/>
+        <cell227 column="7" row="21" text="44439"/>
+        <cell228 column="7" row="22" text="-25435135"/>
+        <cell229 column="7" row="23" text="-17817132"/>
+        <cell230 column="7" row="24" text="-3125828"/>
+        <cell231 column="7" row="25" text="-1140599"/>
+        <cell232 column="7" row="26" text="-19618"/>
+        <cell233 column="7" row="27" text="-3331958"/>
+        <cell234 column="7" row="28" text="461221"/>
+        <cell235 column="7" row="29" text="промышленность"/>
+        <cell236 column="7" row="31" text="0710004"/>
+        <cell237 column="7" row="32" text="За 12 месяцев 2013 г."/>
+        <cell238 column="7" row="33" text="4"/>
+        <cell239 column="7" row="35" text="619691"/>
+        <cell240 column="7" row="36" text="80890"/>
+        <cell241 column="7" row="37" text="0"/>
+        <cell242 column="7" row="38" text="302359"/>
+        <cell243 column="7" row="39" text="12230"/>
+        <cell244 column="7" row="40" text="224212"/>
+        <cell245 column="7" row="41" text="-3731264"/>
+        <cell246 column="7" row="42" text="-2957077"/>
+        <cell247 column="7" row="43" text="-303"/>
+        <cell248 column="7" row="44" text="-398836"/>
+        <cell249 column="7" row="45" text="-116928"/>
+        <cell250 column="7" row="46" text="-258120"/>
+        <cell251 column="7" row="47" text="-3111573"/>
+        <cell252 column="7" row="49" text="11026013"/>
+        <cell253 column="7" row="50" text="9972590"/>
+        <cell254 column="7" row="51" text="6226"/>
+        <cell255 column="7" row="52" text="0"/>
+        <cell256 column="7" row="53" text="52585"/>
+        <cell257 column="7" row="54" text="994612"/>
+        <cell258 column="7" row="56" text="0710004"/>
+        <cell259 column="7" row="57" text="За 12 месяцев 2013 г."/>
+        <cell260 column="7" row="58" text="4"/>
+        <cell261 column="7" row="59" text="-8383397"/>
+        <cell262 column="7" row="60" text="-79828"/>
+        <cell263 column="7" row="61" text="-114840"/>
+        <cell264 column="7" row="62" text="-6305869"/>
+        <cell265 column="7" row="63" text="-1882860"/>
+        <cell266 column="7" row="64" text="2642616"/>
+        <cell267 column="7" row="65" text="-7736"/>
+        <cell268 column="7" row="66" text="824589"/>
+        <cell269 column="7" row="67" text="816888"/>
+        <cell270 column="7" row="68" text="35"/>
+        <cell271 column="7" row="70" text="Н.В. Кадникова"/>
+        <cell272 column="7" row="71" text="(расшифровка"/>
+        <cell273 column="8" row="4" text="12"/>
+        <cell274 column="8" row="31" text="с. 2"/>
+        <cell275 column="8" row="56" text="с. 3"/>
+        <cell276 column="8" row="71" text="подписи)"/>
+        <cell277 column="10" row="4" text="2014"/>
+      </cells>
+    </content>
+  </grid>
+</CONFIG>

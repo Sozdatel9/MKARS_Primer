@@ -1,0 +1,258 @@
+# ---------------------------- HKEY_CLASSES_ROOT ----------------------------#
+[HKEY_CLASSES_ROOT\.xlc]
+@="Excel.Chart.8"
+
+[HKEY_CLASSES_ROOT\Excel.Chart]
+@="Microsoft Excel Chart"
+
+[HKEY_CLASSES_ROOT\Excel.Chart\CLSID]
+@="{00020821-0000-0000-C000-000000000046}"
+
+[HKEY_CLASSES_ROOT\Excel.Chart\CurVer]
+@="Excel.Chart.8"
+
+[HKEY_CLASSES_ROOT\Excel.Chart.8]
+@="Microsoft Excel Chart"
+
+[HKEY_CLASSES_ROOT\Excel.Chart.8\CLSID]
+@="{00020821-0000-0000-C000-000000000046}
+
+[HKEY_CLASSES_ROOT\Excel.Chart.8\DocObject]
+@="16"
+
+[HKEY_CLASSES_ROOT\Excel.Chart.8\DefaultIcon]
+@="<product path>\\<app name>,3"
+
+[HKEY_CLASSES_ROOT\Excel.Chart.8\shell\Open\command]
+@="\"<product path>\\<app name>\" /e"
+
+[HKEY_CLASSES_ROOT\Excel.Chart.8\shell\Open\ddeexec]
+@="[open(\"%1\")]"
+
+[HKEY_CLASSES_ROOT\Excel.Chart.8\shell\Open\ddeexec\application]
+@="Excel"
+
+[HKEY_CLASSES_ROOT\Excel.Chart.8\shell\Open\ddeexec\topic]
+@="system"
+
+[HKEY_CLASSES_ROOT\Excel.Chart.8\shell\Print\command]
+@="\"<product path>\\<app name>\" /e"
+
+[HKEY_CLASSES_ROOT\Excel.Chart.8\shell\Print\ddeexec]
+@="[open(\"%1\")][print()][close()]"
+
+[HKEY_CLASSES_ROOT\Excel.Chart.8\shell\Print\ddeexec\application]
+@="Excel"
+
+[HKEY_CLASSES_ROOT\Excel.Chart.8\shell\Print\ddeexec\topic]
+@="system"
+
+[HKEY_CLASSES_ROOT\Excel.Chart.8\shell\Print\ddeexec\ifexec]
+@="[open(\"%1\")][print()][quit()]"
+
+[HKEY_CLASSES_ROOT\CLSID\{00020820-0000-0000-C000-000000000046}]
+@="Microsoft Excel Worksheet"
+
+[HKEY_CLASSES_ROOT\CLSID\{00020820-0000-0000-C000-000000000046}\DocObject]
+@="16"
+
+[HKEY_CLASSES_ROOT\CLSID\{00020820-0000-0000-C000-000000000046}\MiscStatus]
+@="0"
+
+[HKEY_CLASSES_ROOT\CLSID\{00020820-0000-0000-C000-000000000046}\DataFormats\GetSet\0]
+@="3,1,32,1"
+
+[HKEY_CLASSES_ROOT\CLSID\{00020820-0000-0000-C000-000000000046}\DataFormats\GetSet\1]
+@="2,1,16,1"
+
+[HKEY_CLASSES_ROOT\CLSID\{00020820-0000-0000-C000-000000000046}\DataFormats\GetSet\2]
+@="1,1,1,1"
+
+[HKEY_CLASSES_ROOT\CLSID\{00020820-0000-0000-C000-000000000046}\DataFormats\GetSet\3]
+@="NotesDocInfo,1,1,1"
+
+[HKEY_CLASSES_ROOT\CLSID\{00020820-0000-0000-C000-000000000046}\DataFormats\GetSet\4]
+@="NoteshNote,-1,1,1"
+
+[HKEY_CLASSES_ROOT\CLSID\{00020820-0000-0000-C000-000000000046}\Conversion\Readable\Main]
+@="Biff8,ExcelWorksheet"
+
+[HKEY_CLASSES_ROOT\CLSID\{00020820-0000-0000-C000-000000000046}\DefaultIcon]
+@="<product path>\\<app name>,1"
+
+[HKEY_CLASSES_ROOT\CLSID\{00020820-0000-0000-C000-000000000046}\AuxUserType\2]
+@="Worksheet"	
+
+[HKEY_CLASSES_ROOT\CLSID\{00020820-0000-0000-C000-000000000046}\AuxUserType\3]
+@="Microsoft Excel 97"
+
+[HKEY_CLASSES_ROOT\CLSID\{00020820-0000-0000-C000-000000000046}\Verb\1]
+@="&Open,0,2"
+
+[HKEY_CLASSES_ROOT\CLSID\{00020820-0000-0000-C000-000000000046}\VersionIndependentProgID]
+@="Excel.Sheet"
+
+[HKEY_CLASSES_ROOT\CLSID\{00020820-0000-0000-C000-000000000046}\InprocHandler32]
+@="Ole32.dll"
+
+[HKEY_CLASSES_ROOT\CLSID\{00020820-0000-0000-C000-000000000046}\LocalServer]
+@="<product path>\\<app name>"
+
+[HKEY_CLASSES_ROOT\CLSID\{00020820-0000-0000-C000-000000000046}\LocalServer32]
+@="<product path>\\<app name>"
+
+[HKEY_CLASSES_ROOT\CLSID\{00020820-0000-0000-C000-000000000046}\ProgID]
+@="Excel.Sheet.8"
+
+[HKEY_CLASSES_ROOT\CLSID\{00020821-0000-0000-C000-000000000046}]
+@="Microsoft Excel Chart"
+
+[HKEY_CLASSES_ROOT\CLSID\{00020821-0000-0000-C000-000000000046}\AuxUserType\2]
+@="Chart"
+
+[HKEY_CLASSES_ROOT\CLSID\{00020821-0000-0000-C000-000000000046}\AuxUserType\3]
+@="Microsoft Excel 97"
+
+[HKEY_CLASSES_ROOT\CLSID\{00020821-0000-0000-C000-000000000046}\Conversion\Readable\Main]
+@="Biff8,Biff5,ExcelChart"
+
+[HKEY_CLASSES_ROOT\CLSID\{00020821-0000-0000-C000-000000000046}\DataFormats\DefaultFile]
+@="Biff8"
+
+[HKEY_CLASSES_ROOT\CLSID\{00020821-0000-0000-C000-000000000046}\DataFormats\GetSet\0]
+@="3,1,32,1"
+
+[HKEY_CLASSES_ROOT\CLSID\{00020821-0000-0000-C000-000000000046}\DataFormats\GetSet\1]
+@="2,1,16,1"
+
+[HKEY_CLASSES_ROOT\CLSID\{00020821-0000-0000-C000-000000000046}\DataFormats\GetSet\2]
+@="1,1,1,1"
+
+[HKEY_CLASSES_ROOT\CLSID\{00020821-0000-0000-C000-000000000046}\DataFormats\GetSet\3]
+@="NotesDocInfo,1,1,1"
+
+[HKEY_CLASSES_ROOT\CLSID\{00020821-0000-0000-C000-000000000046}\DataFormats\GetSet\4]
+@="NoteshNote,-1,1,1"
+
+[HKEY_CLASSES_ROOT\CLSID\{00020821-0000-0000-C000-000000000046}\DefaultIcon]
+@="<product path>\\<app name>,3"
+
+[HKEY_CLASSES_ROOT\CLSID\{00020821-0000-0000-C000-000000000046}\DocObject]
+@="16"
+
+[HKEY_CLASSES_ROOT\CLSID\{00020821-0000-0000-C000-000000000046}\InprocHandler32]
+@="Ole32.dll"
+
+[HKEY_CLASSES_ROOT\CLSID\{00020821-0000-0000-C000-000000000046}\LocalServer]
+@="<product path>\\<app name>"
+
+[HKEY_CLASSES_ROOT\CLSID\{00020821-0000-0000-C000-000000000046}\LocalServer32]
+@="<product path>\\<app name>"
+
+[HKEY_CLASSES_ROOT\CLSID\{00020821-0000-0000-C000-000000000046}\MiscStatus]
+@="1"
+
+[HKEY_CLASSES_ROOT\CLSID\{00020821-0000-0000-C000-000000000046}\ProgID]
+@="Excel.Chart.8"
+
+[HKEY_CLASSES_ROOT\CLSID\{00020821-0000-0000-C000-000000000046}\VersionIndependentProgID]
+@="Excel.Chart"
+
+[HKEY_CLASSES_ROOT\.xls]
+@="Excel.Sheet.8"
+
+[HKEY_CLASSES_ROOT\.xls]
+"Content Type"="application/vnd.ms-excel"
+
+[HKEY_CLASSES_ROOT\Excel.Sheet]
+@="Microsoft Excel Sheet"
+
+[HKEY_CLASSES_ROOT\Excel.Sheet\CLSID]
+@="{00020820-0000-0000-C000-000000000046}"
+
+[HKEY_CLASSES_ROOT\Excel.Sheet\CurVer]
+@="Excel.Sheet.8"
+
+[HKEY_CLASSES_ROOT\Excel.Sheet.8]
+@="Microsoft Excel Worksheet"
+
+[HKEY_CLASSES_ROOT\Excel.Sheet.8\Insertable]
+@=""
+
+[HKEY_CLASSES_ROOT\Excel.Sheet.8\DefaultIcon]
+@="<product path>\\<app name>,1"
+
+[HKEY_CLASSES_ROOT\Excel.Sheet.8\DocObject]
+@="16" 
+
+[HKEY_CLASSES_ROOT\Excel.Sheet.8\CLSID]
+@= "{00020820-0000-0000-C000-000000000046}"
+
+[HKEY_CLASSES_ROOT\Excel.Sheet.8\shell\Open\command]
+@="\"<product path>\\<app name>\" /e"
+
+[HKEY_CLASSES_ROOT\Excel.Sheet.8\shell\Open\ddeexec]
+@="[open(\"%1\")]"
+
+[HKEY_CLASSES_ROOT\Excel.Sheet.8\shell\Open\ddeexec\application]
+@="Excel"
+
+[HKEY_CLASSES_ROOT\Excel.Sheet.8\shell\Open\ddeexec\topic]
+@="system"
+
+[HKEY_CLASSES_ROOT\Excel.Sheet.8\shell\Print\command]
+@="\"<product path>\\<app name>\" /e"
+
+[HKEY_CLASSES_ROOT\Excel.Sheet.8\shell\Print\ddeexec]
+@="[open(\"%1\")][print()][close()]"
+
+[HKEY_CLASSES_ROOT\Excel.Sheet.8\shell\Print\ddeexec\topic]
+@="system"
+
+[HKEY_CLASSES_ROOT\Excel.Sheet.8\shell\Print\ddeexec\application]
+@="Excel"
+
+[HKEY_CLASSES_ROOT\Excel.Sheet.8\shell\Print\ddeexec\ifexec]
+@="[open(\"%1\")][print()][quit()]"
+
+
+[HKEY_CLASSES_ROOT\Excel.Sheet.8\shell\printto\command]
+@="\"<product path>\\<app name>\" /e"
+
+[HKEY_CLASSES_ROOT\Excel.Sheet.8\shell\printto\ddeexec]
+@="[open(\"%1\")][print(1,,,,,,,,,,,2,\"%2\")][close()]"
+
+[HKEY_CLASSES_ROOT\Excel.Sheet.8\shell\printto\ddeexec\application]
+@="Excel"
+
+[HKEY_CLASSES_ROOT\Excel.Sheet.8\shell\printto\ddeexec\ifexec]
+@="[open(\"%1\")][print(1,,,,,,,,,,,2,\"%2\")][quit()]"
+
+[HKEY_CLASSES_ROOT\Excel.Sheet.8\shell\printto\ddeexec\topic]
+@="system"
+
+[HKEY_CLASSES_ROOT\.iqy]
+@="iqyfile"
+
+[HKEY_CLASSES_ROOT\iqyfile]
+@="Microsoft Excel Web Query File"
+"EditFlags"="00 00 00 00"
+
+[HKEY_CLASSES_ROOT\iqyfile\DefaultIcon]
+@="<system dir>\\shell32.dll,0"
+
+[HKEY_CLASSES_ROOT\iqyfile\Shell]
+@=""
+
+[HKEY_CLASSES_ROOT\iqyfile\Shell\open]
+"EditFlags"="01 00 00 00"
+
+[HKEY_CLASSES_ROOT\iqyfile\Shell\open\command]
+@="<windows dir>\\notepad.exe %1"
+
+[HKEY_CLASSES_ROOT\MIME\Database\Content Type\application/x-msexcel]
+"Extension"="REG_SZ:.xls"
+
+[HKEY_CLASSES_ROOT\MIME\Database\Content Type\application/vnd.ms-excel]
+"Extension"="REG_SZ:.xls"
+
