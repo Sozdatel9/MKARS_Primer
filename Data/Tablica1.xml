@@ -4,8 +4,8 @@
     <saveoptions create="False" position="False" content="True"/>
     <content>
       <cells cellcount="353">
-        <cell1 column="0" row="0" text="ОТЧЕТ О ДВИЖЕНИИ ДЕНЕЖНЫХ СРЕДСТВ"/>
-        <cell2 column="0" row="1" text="за 12 месяцев 2015 г."/>
+        <cell1 column="0" row="0" text="ОТЧЕТ О ДВИЖЕНИИ ДЕНЕЖНЫХ СРЕДСТВ за 12 месяцев 2015 г."/>
+        <cell2 column="0" row="1" text="Приращение и отношение"/>
         <cell3 column="0" row="5" text="Организация (орган исполнительной власти)"/>
         <cell4 column="0" row="6" text="Идентификационный номер налогоплательщика"/>
         <cell5 column="0" row="7" text="*Вид экономической деятельности"/>
